@@ -1,0 +1,25 @@
+# Git
+.git
+.gitignore
+
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Entornos locales
+.venv
+venv
+env
+ENV
+*.env
+.env.*
+
+# Notebooks y artefactos locales
+.ipynb_checkpoints/
+*.ipynb
+dist/
+build/
+*.log
+.DS_Store
